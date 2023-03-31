@@ -1,4 +1,4 @@
-Olá meu nome é Thiago.
+Olá meu nome é Thiago.<br>
 Desenvolvedor fullstack, atualmente trabalhando na produção de módulos em Odoo.
 <div align="center">
   <a href="https://github.com/mikunatic">
