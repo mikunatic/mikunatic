@@ -1,5 +1,5 @@
-Olá meu nome é Thiago
-
+Olá meu nome é Thiago.
+Desenvolvedor fullstack, atualmente trabalhando na produção de módulos em Odoo.
 <div align="center">
   <a href="https://github.com/mikunatic">
   <img height="180em" src="https://github-readme-stats-ten-gilt.vercel.app/api?username=mikunatic&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
