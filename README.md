@@ -5,7 +5,7 @@
 <h4 align="left">Formado em Desenvolvimento de Sistemas pela ETEC de Poá e </h4>
 <h4 align="left">estudando Análise e Desenvolvimento de sistemas pela UniGuairacá</h4>
 
-### Especialidades
+<h3>Especialidades</h3>
 <div style="justify-content: space-between;"> 
     <div align="left">
         <img align="center" alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
