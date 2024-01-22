@@ -1,5 +1,5 @@
 <h1 align="left">Olá, seja bem-vindo ao meu GitHub!</h1> 
-<img src="https://creazilla-store.fra1.digitaloceanspaces.com/cliparts/1998567/coding-svg-clipart-md.png" width="400px" height="570px" align="right"/>    
+<img src="https://creazilla-store.fra1.digitaloceanspaces.com/cliparts/1998567/coding-svg-clipart-md.png" width="400px" height="550px" align="right"/>    
 <h2 align="left">Me chamo Thiago, sou desenvolvedor Fullstack.<br/>Atualmente trabalhando na produção de módulos em Odoo.</h2>
 <h3 align="left">Apaixonado por aprender e ensinar.</h3>
 <h4 align="left">Formado em Desenvolvimento de Sistemas pela ETEC de Poá e <br/>estudando Análise e Desenvolvimento de sistemas pela UniGuairacá.</h4>
