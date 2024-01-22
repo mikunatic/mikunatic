@@ -1,4 +1,4 @@
-<div>
+<div style="transform: translateY(10px);">
     <img src="https://creazilla-store.fra1.digitaloceanspaces.com/cliparts/1998567/coding-svg-clipart-md.png" width="400px" height="570px" align="right"/>    
 </div>
 <h1 align="left">Olá, seja bem-vindo ao meu GitHub!</h1> 
