@@ -1,4 +1,6 @@
-<img src="https://creazilla-store.fra1.digitaloceanspaces.com/cliparts/1998567/coding-svg-clipart-md.png" width="400px" height="570px" align="right"/>
+<div>
+    <img src="https://creazilla-store.fra1.digitaloceanspaces.com/cliparts/1998567/coding-svg-clipart-md.png" width="400px" height="570px" align="right"/>    
+</div>
 <h1 align="left">Olá, seja bem-vindo ao meu GitHub!</h1> 
 <h2 align="left">Me chamo Thiago, sou desenvolvedor Fullstack.<br/>Atualmente trabalhando na produção de módulos em Odoo.</h2>
 <h3 align="left">Apaixonado por aprender e ensinar.</h3>
