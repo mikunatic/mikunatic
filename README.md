@@ -8,7 +8,7 @@
 <div style="justify-content: space-between;" id="badges"> 
     <div align="left">
         <img align="center" alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-        <img align="center" alt="python" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" width="151px" height="27px"><br/>
+        <img align="center" alt="python" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"><br/>
         <img align="center" alt="python" src="https://img.shields.io/badge/Odoo-714B67.svg?style=for-the-badge&logo=Odoo&logoColor=white">
         <img align="center" alt="python" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
         <h3 align="right">Conhecimentos:</h3>
