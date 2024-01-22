@@ -26,7 +26,7 @@
 ### Contatos
 <div id="contacs">
   <a href="mailto:martins.fm28@outlook.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+    <img src="https://img.shields.io/badge/Microsoft%20Outlook-0078D4.svg?style=for-the-badge&logo=Microsoft-Outlook&logoColor=white">
   </a>
   <a href="https://www.linkedin.com/in/thiago-martins-79360321b/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
