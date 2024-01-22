@@ -1,18 +1,17 @@
 <img src="https://creazilla-store.fra1.digitaloceanspaces.com/cliparts/1998567/coding-svg-clipart-md.png" width="425px" height="570px" align="right"/>
 <h1 align="left">Olá, seja bem-vindo ao meu GitHub!</h1> 
-<h2 align="left">Me chamo Thiago, sou desenvolvedor Fullstack.</h2>
-<h3 align="left">Atualmente trabalhando na produção de módulos em Odoo</h3>
-<h4 align="left">Formado em Desenvolvimento de Sistemas pela ETEC de Poá e </h4>
-<h4 align="left">estudando Análise e Desenvolvimento de sistemas pela UniGuairacá</h4>
+<h2 align="left">Me chamo Thiago, sou desenvolvedor Fullstack.<br/>Atualmente trabalhando na produção de módulos em Odoo.</h2>
+<h3 align="left">Apaixonado por aprender e ensinar.</h3>
+<h4 align="left">Formado em Desenvolvimento de Sistemas pela ETEC de Poá e <br/>estudando Análise e Desenvolvimento de sistemas pela UniGuairacá.</h4>
 
-<h3>Especialidades</h3>
-<div style="justify-content: space-between;"> 
+<h3>Especialidades:</h3>
+<div style="justify-content: space-between;" id="badges"> 
     <div align="left">
         <img align="center" alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-        <img align="center" alt="python" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"><br/>
+        <img align="center" alt="python" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" width="151px" height="27px"><br/>
         <img align="center" alt="python" src="https://img.shields.io/badge/Odoo-714B67.svg?style=for-the-badge&logo=Odoo&logoColor=white">
         <img align="center" alt="python" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
-        <h3 align="right">Conhecimentos</h3>
+        <h3 align="right">Conhecimentos:</h3>
     </div>
     <div align="right">
         <img align="center" alt="python" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -23,8 +22,8 @@
     </div>
 </div>
 
-### Contatos
-<div id="contacs">
+### Contatos:
+<div id="contacts">
   <a href="mailto:martins.fm28@outlook.com" target="_blank">
     <img src="https://img.shields.io/badge/Microsoft%20Outlook-0078D4.svg?style=for-the-badge&logo=Microsoft-Outlook&logoColor=white">
   </a>
