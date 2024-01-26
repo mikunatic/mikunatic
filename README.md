@@ -29,6 +29,6 @@
 <a href="https://www.linkedin.com/in/thiago-martins-79360321b/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </a>
-<a src="https://x.com/devmikunatic?t=3ljOgelpNjPbTIrT2vG5Cg&s=08">
+<a href="https://x.com/devmikunatic?t=3ljOgelpNjPbTIrT2vG5Cg&s=08">
     <img src="https://img.shields.io/badge/Twitter-1D9BF0.svg?style=for-the-badge&logo=Twitter&logoColor=white"/>
 </a>
