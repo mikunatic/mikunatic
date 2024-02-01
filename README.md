@@ -4,7 +4,7 @@
 <h3 align="left">Apaixonado por aprender e ensinar.</h3>
 <h4 align="left">Formado em Desenvolvimento de Sistemas pela ETEC e <br/>cursando Análise e Desenvolvimento de Sistemas.</h4>
 
-<h3>Especialidades:</h3>
+<h3>Experiências:</h3>
 <div style="justify-content: space-between;" id="badges"> 
     <div align="left">
         <img align="center" alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
